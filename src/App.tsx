@@ -103,8 +103,8 @@ function App() {
                 name: "Coin98",
                 imageUrl: "https://coin98.s3.ap-southeast-1.amazonaws.com/SocialLogo/ninetyeight.png",
                 aboutUrl: "https://trustwallet.com/about-us",
-                bridgeUrl: "http://10.40.0.172:8080/bridge",
-                // bridgeUrl: "https://ton-bridge.coin98.tech/bridge",
+                // bridgeUrl: "http://10.40.0.172:8080/bridge",
+                bridgeUrl: "https://ton-bridge.coin98.tech/bridge",
                 universalLink: "https://coin98.com/ton-conect",
                 jsBridgeKey: "coin98",
                 platforms: ["ios", "android"]
